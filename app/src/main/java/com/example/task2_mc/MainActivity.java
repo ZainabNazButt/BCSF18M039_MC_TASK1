@@ -11,7 +11,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
     EditText cash, loan, silver, gold, tax, borrow;
     TextView zakatpayable;
-    Button btn;
+    Button btn,BTN1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
